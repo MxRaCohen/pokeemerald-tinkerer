@@ -6217,7 +6217,7 @@ static const u16 sTinkatinkEggMoveLearnset[] = {
     MOVE_FEINT,
     MOVE_ICE_HAMMER,
     MOVE_QUASH,
-    MOVE_UNAVAILABLE,
+    MOVE_SWEET_KISS,
 };
 #endif //P_FAMILY_TINKATINK
 
