@@ -15,7 +15,7 @@ To use Quickstart press `SELECT` from the title screen to immediately start a ne
 
 | Game | Male | Female |
 | --------------- | --------------- | --------------- |
-| **Emerald** | BRENDAN | MAY |
+| **Emerald** | RYAN | RAH |
 | **FRLG** | RED | LEAF |
 
 The FRLG Rival is named **BLUE**.
